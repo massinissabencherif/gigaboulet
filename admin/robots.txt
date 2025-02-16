@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/      # Bloquer les bots d'explorer le dossier admin
+Allow: /               # Autoriser tout le reste
+Sitemap: https://www.giga-boulet.fr/sitemap.xml
